@@ -1,0 +1,9 @@
+{
+  "name": "AI Education Platform - Anh Sao Khue",
+  "description": "Nền tảng quản lý lớp học, điểm danh, kiểm tra miệng & trợ lý ảo Miss Yến còi",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
